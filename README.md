@@ -32,19 +32,15 @@ Sou um apaixonado por tecnologia desde a infância, com uma sólida trajetória 
 - Atuação como voluntário, ajudando na organização e avaliação das competições.
 -->
 
-## Linguagens
-- **Python**
-- **C/C++**
-- **MySQL**
-- **PostgreSQL**
+## Tecnologias 
+#### Linguagens: 
+- Python, C, C++, SQL.
 
-## Tecnologias
-- **GitHub**
-- **Git**
-- **Docker**
-- **Flask**
-- **AWS**
-- **SQLAlchemy**
+#### Frameworks/Bibliotecas: 
+- Flask, SQLAlchemy.
+
+#### Ferramentas/DevOps: 
+- Git, GitHub, Docker, AWS.
 
 ## Principais conquistas
 
