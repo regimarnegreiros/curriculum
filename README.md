@@ -2,7 +2,7 @@
 
 ## Sobre
 
-Sou um apaixonado por tecnologia desde a infância, com uma sólida trajetória em competições de robótica e atualmente cursando Ciência da Computação. Minha experiência prática e teórica em robótica e programação tem sido fundamental para meu desenvolvimento acadêmico e profissional, além de me proporcionar a oportunidade de trabalhar em equipe, resolver problemas complexos e inovar em soluções tecnológicas.
+Com dedicação a tecnologia desde a infância, com uma sólida trajetória em competições de robótica e atualmente cursando Ciência da Computação. Minha experiência prática e teórica em robótica e programação tem sido fundamental para meu desenvolvimento acadêmico e profissional, além de me proporcionar a oportunidade de trabalhar em equipe, resolver problemas complexos e inovar em soluções tecnológicas.
 
 ## Formação acadêmica
 
@@ -63,7 +63,7 @@ Sou um apaixonado por tecnologia desde a infância, com uma sólida trajetória 
 - **2023** - Campeão Regional, F1 in Schools.
 -->
 
-## Linguas
+## Línguas
 
 - **Português**: Nativo.
 - **Inglês**: Intermediário - leitura, escrita e conversação.
