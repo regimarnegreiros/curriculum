@@ -33,14 +33,9 @@ Sou um apaixonado por tecnologia desde a infância, com uma sólida trajetória 
 -->
 
 ## Tecnologias 
-#### Linguagens: 
-- Python, C, C++, SQL.
-
-#### Frameworks/Bibliotecas: 
-- Flask, SQLAlchemy.
-
-#### Ferramentas/DevOps: 
-- Git, GitHub, Docker, AWS.
+- **Linguagens:** Python, C, C++, SQL.
+- **Frameworks/Bibliotecas:** Flask, SQLAlchemy.
+- **Ferramentas/DevOps:** Git, GitHub, Docker, AWS.
 
 ## Principais conquistas
 
