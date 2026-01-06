@@ -70,7 +70,7 @@ Sou um apaixonado por tecnologia desde a infância, com uma sólida trajetória 
 
 ## Contato
 
-- [Linkedin](https://www.linkedin.com/in/regimar/)
-- [Lattes](http://lattes.cnpq.br/1757994131494501)
-- [Github](https://github.com/regimarnegreiros)
-- [regimar.dn@gmail.com](regimar.dn@gmail.com)
+- Linkedin: https://www.linkedin.com/in/regimar/
+- Lattes: http://lattes.cnpq.br/1757994131494501
+- Github: https://github.com/regimarnegreiros
+- Email: [regimar.dn@gmail.com](regimar.dn@gmail.com)
