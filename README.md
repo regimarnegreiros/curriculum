@@ -41,6 +41,7 @@ Sou um apaixonado por tecnologia desde a infância, com uma sólida trajetória 
 ## Tecnologias
 - **GitHub**
 - **Git**
+- **Docker**
 - **Flask**
 - **AWS**
 - **SQLAlchemy**
